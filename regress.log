@@ -1,0 +1,18 @@
+PASS  add
+PASS  addi
+PASS  branch_not_taken
+PASS  branch_taken
+PASS  complex1
+PASS  complex2
+PASS  ebreak
+PASS  lw
+PASS  my_b2b_branch
+PASS  my_imm_neg
+PASS  my_shift0
+PASS  my_x0
+PASS  sll
+PASS  srl
+PASS  sub
+PASS  sw
+----------------------------------------
+16 passed, 0 failed (of 16)
